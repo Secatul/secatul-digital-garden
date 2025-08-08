@@ -1,5 +1,5 @@
 ---
-title: My Journey Building the API Hub
+title: Day 0 - My Journey Building the API Hub
 ---
 
 # What is API Hub?
