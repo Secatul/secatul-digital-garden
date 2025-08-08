@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my daily log
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+The main goal is to daily update my progress in web development (for now) 
+
