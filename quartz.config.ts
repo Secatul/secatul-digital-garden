@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Lcscostadev logs",
+    pageTitle: "Lcscostadev",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
