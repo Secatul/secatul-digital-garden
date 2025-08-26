@@ -45,6 +45,7 @@ Every day is a small step forward — and I’m documenting each one right here.
 > Come explore the **API Hub** I'm building — a personal project to organize and test various APIs!
 
 - 🚀 [API Hub](./api-hub)
+- ♦️ [Ruby](./learning_ruby)
 
 More sections coming soon as I expand the devlog!
 
