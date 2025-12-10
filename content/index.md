@@ -4,7 +4,7 @@ title: 👋 Welcome to my Devlog!
 
 Hey there! I'm glad you stopped by.
 
-This is my personal space to log daily progress in **web development** (for now!).  
+This is my personal space to log daily progress in **Cybersecurity**.  
 Whether you're here out of curiosity or looking for inspiration, feel free to browse around. Make yourself at home. ☕
 
 ---
