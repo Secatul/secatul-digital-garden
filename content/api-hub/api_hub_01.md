@@ -131,4 +131,4 @@ What matters is having something closer to done than perfect. 😄
 - The data is filtered based on the tool name  
 - The list updates dynamically  
 - The input is sanitized using DOMPurify  
-- Everything is modularized into reusable components
+- Everything is modularized into reusable components.
